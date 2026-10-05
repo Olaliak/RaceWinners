@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12224.181 stable
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceWinners", "RaceWinners\RaceWinners.csproj", "{9A9F3660-F921-4D53-9121-2F52AFA3D0B2}"
 EndProject
 Global
@@ -12,5 +15,11 @@ Global
 		{9A9F3660-F921-4D53-9121-2F52AFA3D0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A9F3660-F921-4D53-9121-2F52AFA3D0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A9F3660-F921-4D53-9121-2F52AFA3D0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A01E9598-9674-401F-9AE0-5918261E3B26}
 	EndGlobalSection
 EndGlobal
